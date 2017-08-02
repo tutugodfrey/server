@@ -22,5 +22,10 @@
   "bugs": {
     "url": "https://github.com/tutugodfrey/server/issues"
   },
-  "homepage": "https://github.com/tutugodfrey/server#readme"
+  "homepage": "https://github.com/tutugodfrey/server#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "morgan": "^1.8.2"
+  }
 }
