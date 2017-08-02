@@ -1,0 +1,28 @@
+{
+  "name": "hellobook",
+  "version": "1.0.0",
+  "description": "application to manage an online library",
+  "main": "hellobook.js",
+  "scripts": {
+    "test": "mocha jstest/jstest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tutugodfrey/server.git"
+  },
+  "keywords": [
+    "js",
+    "express"
+  ],
+  "author": "Tutu Godfrey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tutugodfrey/server/issues"
+  },
+  "homepage": "https://github.com/tutugodfrey/server#readme",
+  "dependencies": {
+    "chai": "^4.1.0",
+    "express": "^4.15.3",
+    "mocha": "^3.5.0"
+  }
+}
